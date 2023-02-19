@@ -1,6 +1,6 @@
 # Feliz em ter você em meu perfil! Espero que aconteça de alguma forma, uma troca positiva para todos.
 
-Meu nome ´é Renan Nocelli Britto!
+Meu nome é Renan Nocelli Britto!
 
 ## Meus Hobbies são:
 
