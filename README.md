@@ -23,4 +23,5 @@ Hoje eu moro em Juiz De Fora - MG, mas sou aberto para ir para qualquer lugar
 ## Quer entrar em contato comigo?
 
 - Email: renan.nocelli@gmail.com;
+- Linkedin: renan-britto.
 
