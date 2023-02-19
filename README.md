@@ -4,11 +4,11 @@ Meu nome é Renan Nocelli Britto!
 
 ## Meus Hobbies são:
 
-- Jogar um video Game
-- Ler um livro
-- Jogar um futebol
-- Jogar Airsoft
-- E claro, estar sempre ligado ao mundo de tecnologia e programação
+- Jogar um video Game;
+- Ler um livro;
+- Jogar um futebol;
+- Jogar Airsoft;
+- E claro, estar sempre ligado ao mundo de tecnologia e programação.
 
 ## Hoje eu estudo:
 
