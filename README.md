@@ -1,6 +1,10 @@
 # Feliz em ter você em meu perfil! Espero que aconteça de alguma forma, uma troca positiva para todos.
 
-Meu nome é Renan Nocelli Britto!
+Meu nome é Renan Nocelli Britto
+
+![essa](https://user-images.githubusercontent.com/99055025/219953480-f3f71dda-2abd-42fa-b364-f4c037b383e8.jpg)
+
+Hoje eu moro em Juiz De Fora - MG, mas sou aberto para ir para qualquer lugar
 
 ## Meus Hobbies são:
 
@@ -19,4 +23,4 @@ Meu nome é Renan Nocelli Britto!
 ## Quer entrar em contato comigo?
 
 - Email: renan.nocelli@gmail.com;
-- Instagram: renannocelli.py.
+
